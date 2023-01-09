@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Abdirahman Mohamud</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/cbyare/ISTQ-_SMS_API.git</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>This is the first release of ISTQ SMS API Package</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Hormuud Telecom SMS API integration,ISTQ SMS API</tags>
+  </metadata>
+</package>

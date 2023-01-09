@@ -1,0 +1,13 @@
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\SMSAPIModule.dll
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\SMSAPIModule.pdb
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\SMSAPIModule.dll.config
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\businesss support doc\SMSAPIModule\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

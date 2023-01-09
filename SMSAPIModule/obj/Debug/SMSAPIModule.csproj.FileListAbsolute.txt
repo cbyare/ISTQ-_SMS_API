@@ -1,0 +1,17 @@
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\SMSAPIModule.dll.config
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\SMSAPIModule.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\SMSAPIModule.pdb
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\Newtonsoft.Json.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Configuration.Abstractions.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Net.Http.Extensions.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Net.Http.Primitives.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\Newtonsoft.Json.xml
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Configuration.Abstractions.pdb
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Net.Http.Extensions.xml
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\bin\Debug\System.Net.Http.Primitives.xml
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.csproj.App.config
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.csproj.CoreCompileInputs.cache
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.csproj.CopyComplete
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.dll
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.pdb
+E:\businesss support doc\SMSAPIModule\SMSAPIModule\obj\Debug\SMSAPIModule.csproj.AssemblyReference.cache
